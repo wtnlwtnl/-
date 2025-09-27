@@ -1,0 +1,83 @@
+int 'int'	 [StartOfLine]	Loc=<fib.c:1:1>
+identifier 'main'	 [LeadingSpace]	Loc=<fib.c:1:5>
+l_paren '('		Loc=<fib.c:1:9>
+r_paren ')'		Loc=<fib.c:1:10>
+l_brace '{'	 [LeadingSpace]	Loc=<fib.c:1:12>
+int 'int'	 [StartOfLine] [LeadingSpace]	Loc=<fib.c:2:5>
+identifier 'a'	 [LeadingSpace]	Loc=<fib.c:2:9>
+comma ','		Loc=<fib.c:2:10>
+identifier 'b'	 [LeadingSpace]	Loc=<fib.c:2:12>
+comma ','		Loc=<fib.c:2:13>
+identifier 'i'	 [LeadingSpace]	Loc=<fib.c:2:15>
+comma ','		Loc=<fib.c:2:16>
+identifier 't'	 [LeadingSpace]	Loc=<fib.c:2:18>
+comma ','		Loc=<fib.c:2:19>
+identifier 'n'	 [LeadingSpace]	Loc=<fib.c:2:21>
+semi ';'		Loc=<fib.c:2:22>
+identifier 'a'	 [StartOfLine] [LeadingSpace]	Loc=<fib.c:3:5>
+equal '='	 [LeadingSpace]	Loc=<fib.c:3:7>
+numeric_constant '0'	 [LeadingSpace]	Loc=<fib.c:3:9>
+semi ';'		Loc=<fib.c:3:10>
+identifier 'b'	 [LeadingSpace]	Loc=<fib.c:3:12>
+equal '='	 [LeadingSpace]	Loc=<fib.c:3:14>
+numeric_constant '1'	 [LeadingSpace]	Loc=<fib.c:3:16>
+semi ';'		Loc=<fib.c:3:17>
+identifier 'i'	 [LeadingSpace]	Loc=<fib.c:3:19>
+equal '='	 [LeadingSpace]	Loc=<fib.c:3:21>
+numeric_constant '1'	 [LeadingSpace]	Loc=<fib.c:3:23>
+semi ';'		Loc=<fib.c:3:24>
+identifier 'cin'	 [StartOfLine] [LeadingSpace]	Loc=<fib.c:4:5>
+greatergreater '>>'	 [LeadingSpace]	Loc=<fib.c:4:9>
+identifier 'n'	 [LeadingSpace]	Loc=<fib.c:4:12>
+semi ';'		Loc=<fib.c:4:13>
+identifier 'cout'	 [StartOfLine] [LeadingSpace]	Loc=<fib.c:5:5>
+lessless '<<'	 [LeadingSpace]	Loc=<fib.c:5:10>
+identifier 'a'	 [LeadingSpace]	Loc=<fib.c:5:13>
+lessless '<<'	 [LeadingSpace]	Loc=<fib.c:5:15>
+identifier 'endl'	 [LeadingSpace]	Loc=<fib.c:5:18>
+semi ';'		Loc=<fib.c:5:22>
+identifier 'cout'	 [StartOfLine] [LeadingSpace]	Loc=<fib.c:6:5>
+lessless '<<'	 [LeadingSpace]	Loc=<fib.c:6:10>
+identifier 'b'	 [LeadingSpace]	Loc=<fib.c:6:13>
+lessless '<<'	 [LeadingSpace]	Loc=<fib.c:6:15>
+identifier 'endl'	 [LeadingSpace]	Loc=<fib.c:6:18>
+semi ';'		Loc=<fib.c:6:22>
+while 'while'	 [StartOfLine] [LeadingSpace]	Loc=<fib.c:7:5>
+l_paren '('	 [LeadingSpace]	Loc=<fib.c:7:11>
+identifier 'i'		Loc=<fib.c:7:12>
+less '<'	 [LeadingSpace]	Loc=<fib.c:7:14>
+identifier 'n'	 [LeadingSpace]	Loc=<fib.c:7:16>
+r_paren ')'		Loc=<fib.c:7:17>
+l_brace '{'	 [LeadingSpace]	Loc=<fib.c:7:19>
+identifier 't'	 [StartOfLine] [LeadingSpace]	Loc=<fib.c:8:9>
+equal '='	 [LeadingSpace]	Loc=<fib.c:8:11>
+identifier 'b'	 [LeadingSpace]	Loc=<fib.c:8:13>
+semi ';'		Loc=<fib.c:8:14>
+identifier 'b'	 [StartOfLine] [LeadingSpace]	Loc=<fib.c:9:9>
+equal '='	 [LeadingSpace]	Loc=<fib.c:9:11>
+identifier 'a'	 [LeadingSpace]	Loc=<fib.c:9:13>
+plus '+'	 [LeadingSpace]	Loc=<fib.c:9:15>
+identifier 'b'	 [LeadingSpace]	Loc=<fib.c:9:17>
+semi ';'		Loc=<fib.c:9:18>
+identifier 'cout'	 [StartOfLine] [LeadingSpace]	Loc=<fib.c:10:9>
+lessless '<<'	 [LeadingSpace]	Loc=<fib.c:10:14>
+identifier 'b'	 [LeadingSpace]	Loc=<fib.c:10:17>
+lessless '<<'	 [LeadingSpace]	Loc=<fib.c:10:19>
+identifier 'endl'	 [LeadingSpace]	Loc=<fib.c:10:22>
+semi ';'		Loc=<fib.c:10:26>
+identifier 'a'	 [StartOfLine] [LeadingSpace]	Loc=<fib.c:11:9>
+equal '='	 [LeadingSpace]	Loc=<fib.c:11:11>
+identifier 't'	 [LeadingSpace]	Loc=<fib.c:11:13>
+semi ';'		Loc=<fib.c:11:14>
+identifier 'i'	 [StartOfLine] [LeadingSpace]	Loc=<fib.c:12:9>
+equal '='	 [LeadingSpace]	Loc=<fib.c:12:11>
+identifier 'i'	 [LeadingSpace]	Loc=<fib.c:12:13>
+plus '+'	 [LeadingSpace]	Loc=<fib.c:12:15>
+numeric_constant '1'	 [LeadingSpace]	Loc=<fib.c:12:17>
+semi ';'		Loc=<fib.c:12:18>
+r_brace '}'	 [StartOfLine] [LeadingSpace]	Loc=<fib.c:13:5>
+return 'return'	 [StartOfLine] [LeadingSpace]	Loc=<fib.c:14:5>
+numeric_constant '0'	 [LeadingSpace]	Loc=<fib.c:14:12>
+semi ';'		Loc=<fib.c:14:13>
+r_brace '}'	 [StartOfLine]	Loc=<fib.c:15:1>
+eof ''		Loc=<fib.c:15:2>
